@@ -1,3 +1,4 @@
+// import { NgFor } from '@angular/common';
 import { Component } from '@angular/core';
 
 @Component({
@@ -30,7 +31,7 @@ export class Demo {
       },
       {
         id: 2,
-        title: 'Starboy',
+        title: '',
         artist: 'The Weeknd',
         genre: 'R&B',
         coverUrl: 'https://picsum.photos/id/101/200/200',
